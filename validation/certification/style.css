@@ -1,0 +1,768 @@
+.one{
+    position: relative;
+    left: 320px;
+    top: 3px;
+    color: blue;
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 15px;
+    padding-top: 3px;
+
+}
+
+.two{
+    margin-top:300px;
+}
+
+
+#three{
+    background-image:url("./img/img.png");
+    position: left;
+    padding-left: 33px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.four{
+    background-color: blue;
+    position: relative;
+    left: 330px;
+    color:white;
+    font-size: 15px;
+    margin-top: 4px;
+    text-emphasis-color: white;
+    background-size: 40px;
+    width: 70px;
+    height: 30px;
+}
+
+.five{
+    background-color: #007aff;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    color: beige;
+    background-size: 40px;
+    width: 110px;
+    height: 30px;
+}
+
+
+hr{
+    background-color:  darkred;
+    position: relative;
+    right: 60px;
+    top: 22px;
+    width: 500px;
+}
+
+.six{
+    box-sizing: 700px;
+    width: 500px;
+    height: 40px;
+    position: relative;
+    right: 60px;
+    top: 40px;
+    border: 0;
+    background-color: whitesmoke;
+
+    
+    
+    --swiper-theme-color: #007aff;
+    --swiper-navigation-size: 44px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1;
+    font-weight: 400;
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    color: #000000de;
+    
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-size: 14px;
+    
+
+
+    
+    
+    font-size: inherit;
+
+    line-height: 1.125;
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    letter-spacing: normal;
+    display: inline-block;
+    
+    
+    
+}
+
+body {
+    background-color: whitesmoke;
+
+    
+    
+}
+
+
+
+
+
+.card1{
+    margin-top: 220px;
+    width: 600px;
+    height: 300px;
+    border: none;
+    background-color:white;
+
+    
+    
+
+    
+}
+
+.card3{
+    margin-top: 220px;
+    width: 600px;
+    height: 300px;
+    border:none;
+    background-color: white;
+}
+
+.card4{
+    margin-top: 220px;
+    width: 600px;
+    height: 300px;
+    border: none;
+    background-color: white;
+}
+
+
+
+.card5{
+    margin-top: 220px;
+    width: 600px;
+    height: 300px;
+    border: none;
+    background-color: white;
+    }
+
+    .card6{
+        margin-top: 220px;
+        width: 700px;
+        height: 300px;
+        border: none;
+        background-color: white;
+    }
+
+
+
+h5{
+    position:relative;
+    right: 150px;
+    width: 500px;
+}
+
+.card-body{
+    width: 650px;
+    height: 200px;
+}
+
+p{
+    width: 500px;
+    position: relative;
+    right: 130px;
+    top: 8px;
+    font-size: 12px;
+}
+
+
+.container-fluid{
+    background-color: white;
+    
+}
+
+
+
+
+.para{
+    font-size: 13px;
+    position: relative;
+    bottom: 20px;
+    left: 40px;
+    
+}
+
+h1{
+    position: relative;
+    left: 10px;
+    margin-left: 110px;
+    top: 20px;
+}
+
+.para1{
+    font-size: 13px;
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+
+
+}
+
+.body{
+    
+    
+    background-color: white;
+}
+
+
+
+
+.card{
+
+    width: 600px;
+    height: 500px;
+
+}
+
+.sheki{
+    width: 1500px;
+}
+
+.card-title{
+    position: relative;
+    right: 190px;
+    top: 5px;
+}
+
+.row{
+    width: 1500px;
+    background-color: whitesmoke;
+    height: 2500px;
+    position: relative;
+    top: 50px;
+    
+}
+
+.eight{
+    position: relative;
+
+    top: 95px;
+    right: 550px;
+
+
+}
+
+.nine{
+    position: relative;
+    top: 90px;
+    right: 550px;
+}
+.ten{
+    position: relative;
+    right: 50px;
+}
+
+.eleven{
+    position: relative;
+    right: 80px;
+    top: 20px;
+    
+ 
+}
+
+.eight1{
+    position: relative;
+    right: 550px;
+    top: 150px;
+}
+
+.eight2{
+    position: relative;
+    right: 550px;
+    top: 210px;
+}
+
+
+.eight3{
+    position: relative;
+    right: 530px;
+    top: 240px;
+}
+
+.eight4{
+    position: relative;
+    right: 535px;
+    top: 260px;
+}
+
+
+.bt{
+    position: relative;
+    right: 40px;
+}
+
+.st{
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+.st3{
+    position: relative;
+    top: 250px;
+    right: 550px;
+}
+
+.vt{
+    position: relative;
+    top: 150px;
+    right: 580px;
+}
+
+.rt{
+    position: relative;
+    right: 67px;
+    top: 20px;
+}
+
+.kt{
+    position: relative;
+    right: 30px;
+
+}
+
+.kkt{
+
+    position: relative;
+    right: 30px;
+
+}
+
+
+.kkkt{
+
+    position: relative;
+    right: 16px;
+
+}
+
+.st1{
+
+    position: relative;
+    top: 200px;
+    right: 560px;
+}
+
+.st2{
+ position: relative;
+ top: 230px;
+ right: 570px;   
+}
+
+.sst{
+    position: relative;
+    right: 63px;
+    top: 22px;
+}
+
+.ssst{
+    position: relative;
+    right: 50px;
+    top: 20px;
+    
+}
+
+.kt1{
+    position: relative;
+    left: 2px;
+}
+
+.kt2{
+    position: relative;
+    left: 10px;
+}
+
+.kt3{
+    position: relative;
+    left: 1px;
+}
+
+.rr{
+    position: relative;
+    top: 20px;
+    right: 80px;
+}
+
+.rr19{
+    position: relative;
+    right: 25px;
+}
+
+.rr1{
+    position: relative;
+    left: 15px;
+
+}
+
+.rr2{
+
+    position: relative;
+    right: 26px;
+
+}
+
+.rr3{
+    position: relative;
+    top: 4px;
+    left: 3px;
+
+}
+
+.rr4{
+    position: relative;
+    right: 10px;
+
+
+}
+
+.rr5{
+    position: relative;
+    left: 15px;
+    bottom: 6px;
+
+}
+
+.rr5{
+
+}
+
+.rr6{
+
+    position: relative;
+    right: 10px;
+
+
+}
+
+.rr7{
+    position: relative;
+    right: 14px;
+
+}
+
+.rr8{
+    position: relative;
+    right: 5px;
+
+}
+
+.rr9{
+    position: relative;
+    left: 8px;
+
+}
+
+
+.rr10{
+    position: relative;
+    top: 15px;
+    left: 10px;
+
+}
+
+.rr11{
+    position: relative;
+    right: 3px;
+
+}
+
+.rr12{
+    position: relative;
+    right: 20px;
+
+
+}
+
+.rr13{
+    position: relative;
+    right: 27px;
+
+}
+
+.rr14{
+    position: relative;
+    left: 10px;
+
+}
+
+.rr15{
+    position: relative;
+    right: 30px;
+
+}
+
+.rr16{
+    position: relative;
+    left: 18px;
+
+}
+
+.rr17{
+    position: relative;
+    left: 20px;
+
+}
+
+.rr18{
+    position: relative;
+    left: 14px;
+
+}
+
+.rr20{
+    position: relative;
+    left: 23px;
+    bottom: 10px;
+
+}
+
+.rr21{
+    position: relative;
+    right: 25px;
+    bottom: 6px;
+
+}
+
+.rr22{
+    position: relative;
+    top: 45px;
+    right: 80px;
+}
+
+.rr23{
+    position: relative;
+    right: 16px;
+    bottom: 22px;
+}
+
+.rr24{
+    position: relative;
+    right: 80px;
+    top: 25px;
+}
+
+.rr25{
+    position: relative;
+    right: 20px;
+
+}
+
+.rr26{
+    position: relative;
+    right: 80px;
+    top: 40px;
+}
+
+
+.one1{
+    color: black;
+    border-color: red;
+    font-weight: 100;
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+    top: 10px;
+    text-decoration: none;
+    border: 2;
+    text-emphasis-color: white;
+
+    
+    
+}
+
+.one2{
+    position: relative;
+    top: 35px;
+    right: 40px;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.one3{
+    font-weight: 100;
+    position: relative;
+    top: 70px;
+}
+
+
+.one4{
+    background-color:lightgreen;
+    border: 1;
+    border-color: black;
+    width: 400px;
+    height: 60px;
+    position: relative;
+    top: 90px;
+    left: 15px;
+    border: 2px solid #000;
+
+
+
+
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+    font-weight: 400;
+    font-family: Inter,sans-serif;
+    text-align: center;
+    box-sizing: inherit;
+    text-decoration: none;
+    line-height: 1.5em;
+    border: 2px solid #000;
+    border-radius: 5px;
+    
+    color: #000;
+
+    box-shadow: 1px 1px 0 #000!important;
+    
+    
+}
+
+
+.one5{
+    background-color: green;
+
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 15px;
+    font-size: 30px;
+}
+
+.one6{
+    list-style-type: none;
+    position: relative;
+    top: 12px;
+}
+
+.one7{
+    position: relative;
+    top: 240px;
+    left: 10px;
+    font-size: 20px;
+}
+
+.one8{
+    height: 700px;
+    background-color: yellow;
+    position: relative;
+    top: 380px;
+    
+}
+
+.kala1{
+    height: 2000px;
+}
+
+
+.one9{
+    position: relative;
+    top: 60px;
+}
+
+.one15{
+    border: 2px solid #000;
+    width: 1500px;
+    height: 900px;
+    top: 20px;
+}
+
+#navbarNav{
+    padding-left: 600px;
+}
+
+#why{
+    background-color:lightgreen; color: black;margin-left: 500px; height: 80px;width: 400px; font-size: xx-large;
+    border: 2px solid #000;
+
+}
+.one16{
+    border: 2px solid #000;
+    background-color: yellow;
+    padding: 80px;
+    padding-right: 50%;
+    position: relative;
+    top: 50px;
+
+    
+}
+.hi{
+    
+    padding-left: 70%;
+ 
+}
+.free{
+    position: relative;
+    bottom: 400px;
+    left: 230px;
+    width: 500px;
+
+}
+.one20{
+    text-align: center;
+   
+    padding-bottom: 30px;
+}
+#one21{
+    text-align: center;
+     font-weight: bold;
+    margin-top: 30px;
+    position: relative;
+    left: 50px;
+
+}
+.one19{
+    background-color: rgb(201, 23, 177);
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-bottom: 80px;
+}
+#one22{
+    text-align: center;
+   
+    padding-bottom: 30px;
+    font-size: x-large;
+    position: relative;
+    left: 80px;
+}
+
+.one23{
+    position: relative;
+    right: 150px;
+}
+
+.one17{
+
+
+    
+    padding-top: 80px;
+
+    position: relative;
+    top: 20px;
+    padding: 200px;
+    bottom: 200px;
+}
+.size{
+    position: relative;
+    left: 230px;
+   
+}
+.one18{
+
+    width: 200px;
+    top: 40px;
+}
